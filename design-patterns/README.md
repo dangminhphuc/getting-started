@@ -27,3 +27,10 @@ https://refactoring.guru/design-patterns/singleton
 * **Multithreaded applications**: Use Double-Checked Locking or Bill Pugh Singleton.
 * **Serialization safety**: Use Enum Singleton.
 * **Parameterized singletons**: Use Multiton.
+
+## Abstract Factory
+
+Abstract Factory is a creational design pattern that lets you produce families of related objects without specifying
+their concrete classes.
+
+https://refactoring.guru/design-patterns/abstract-factory
