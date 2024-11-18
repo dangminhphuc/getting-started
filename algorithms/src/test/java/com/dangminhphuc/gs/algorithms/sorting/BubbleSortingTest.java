@@ -1,4 +1,4 @@
-package com.dangminhphuc.getting_started.algorithms.sorting;
+package com.dangminhphuc.gs.algorithms.sorting;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package com.dangminhphuc.getting_started.algorithms.sorting;
+package com.dangminhphuc.gs.algorithms.sorting;
 
 import java.util.Comparator;
 
