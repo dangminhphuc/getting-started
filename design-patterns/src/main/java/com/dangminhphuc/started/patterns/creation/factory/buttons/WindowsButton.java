@@ -1,4 +1,4 @@
-package com.dangminhphuc.greeting_started.design_pattern.creational.abstract_factory.buttons;
+package com.dangminhphuc.started.patterns.creation.factory.buttons;
 
 public class WindowsButton implements Button {
     @Override

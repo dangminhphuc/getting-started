@@ -1,4 +1,4 @@
-package com.dangminhphuc.greeting_started.design_pattern.creational.singleton;
+package com.dangminhphuc.started.patterns.creation.singleton;
 
 public class EagerSingleton {
     // Instance created at class loading

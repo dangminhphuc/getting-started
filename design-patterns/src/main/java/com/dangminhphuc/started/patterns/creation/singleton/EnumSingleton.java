@@ -1,4 +1,4 @@
-package com.dangminhphuc.greeting_started.design_pattern.creational.singleton;
+package com.dangminhphuc.started.patterns.creation.singleton;
 
 public enum EnumSingleton {
     INSTANCE;
