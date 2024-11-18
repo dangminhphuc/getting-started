@@ -1,9 +1,9 @@
-package com.dangminhphuc.started.patterns.creation.factory;
+package com.dangminhphuc.started.patterns.creation.abstractfactory;
 
-import com.dangminhphuc.started.patterns.creation.factory.app.Application;
-import com.dangminhphuc.started.patterns.creation.factory.factory.GUIFactory;
-import com.dangminhphuc.started.patterns.creation.factory.factory.MacOSFactory;
-import com.dangminhphuc.started.patterns.creation.factory.factory.WindowsFactory;
+import com.dangminhphuc.started.patterns.creation.abstractfactory.app.Application;
+import com.dangminhphuc.started.patterns.creation.abstractfactory.factory.GUIFactory;
+import com.dangminhphuc.started.patterns.creation.abstractfactory.factory.MacOSFactory;
+import com.dangminhphuc.started.patterns.creation.abstractfactory.factory.WindowsFactory;
 
 public class Main {
     private static Application getApplicationConfigure(String os) {

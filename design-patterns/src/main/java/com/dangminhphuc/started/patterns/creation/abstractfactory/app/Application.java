@@ -1,8 +1,8 @@
-package com.dangminhphuc.started.patterns.creation.factory.app;
+package com.dangminhphuc.started.patterns.creation.abstractfactory.app;
 
-import com.dangminhphuc.started.patterns.creation.factory.buttons.Button;
-import com.dangminhphuc.started.patterns.creation.factory.checkboxes.Checkbox;
-import com.dangminhphuc.started.patterns.creation.factory.factory.GUIFactory;
+import com.dangminhphuc.started.patterns.creation.abstractfactory.buttons.Button;
+import com.dangminhphuc.started.patterns.creation.abstractfactory.checkboxes.Checkbox;
+import com.dangminhphuc.started.patterns.creation.abstractfactory.factory.GUIFactory;
 
 public class Application {
     private final Button button;

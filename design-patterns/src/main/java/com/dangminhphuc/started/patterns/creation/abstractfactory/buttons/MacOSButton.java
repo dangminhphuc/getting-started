@@ -1,4 +1,4 @@
-package com.dangminhphuc.started.patterns.creation.factory.buttons;
+package com.dangminhphuc.started.patterns.creation.abstractfactory.buttons;
 
 public class MacOSButton implements Button {
     @Override

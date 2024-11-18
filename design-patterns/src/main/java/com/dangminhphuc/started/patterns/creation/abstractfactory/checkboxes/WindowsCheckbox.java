@@ -1,4 +1,4 @@
-package com.dangminhphuc.started.patterns.creation.factory.checkboxes;
+package com.dangminhphuc.started.patterns.creation.abstractfactory.checkboxes;
 
 public class WindowsCheckbox implements Checkbox {
     @Override
