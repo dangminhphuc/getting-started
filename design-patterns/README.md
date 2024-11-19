@@ -64,3 +64,10 @@ https://refactoring.guru/design-patterns/abstract-factory
 | Complexity	         | Simpler and easier to implement.                                  | More complex due to multiple factories and families.                  |                                                                        |
 | Use Case            | When a class needs to delegate object creation to its subclasses. | When multiple related products are created, ensuring consistency.     |
 | Number of Products	 | Focused on one type of product.	                                  | Focused on families of related products.                              |
+
+## Builder
+
+Builder is a creational design pattern that lets you construct complex objects step by step. The pattern allows you to
+produce different types and representations of an object using the same construction code.
+
+https://refactoring.guru/design-patterns/builder
