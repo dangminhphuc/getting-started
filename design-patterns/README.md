@@ -71,3 +71,11 @@ Builder is a creational design pattern that lets you construct complex objects s
 produce different types and representations of an object using the same construction code.
 
 https://refactoring.guru/design-patterns/builder
+
+## Prototype
+
+https://refactoring.guru/design-patterns/prototype
+
+Prototype is a creational design pattern that lets you copy existing objects without making your code dependent on their
+classes.
+
