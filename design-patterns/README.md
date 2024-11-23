@@ -79,3 +79,7 @@ https://refactoring.guru/design-patterns/prototype
 Prototype is a creational design pattern that lets you copy existing objects without making your code dependent on their
 classes.
 
+## Adapter
+
+Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
+
