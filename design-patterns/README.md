@@ -93,3 +93,9 @@ be developed independently.
 Composite is a structural design pattern that lets you compose objects into tree structures and then work with these
 structures as if they were individual objects.
 
+## Decorator
+
+Decorator is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside
+special wrapper objects that contain the behaviors.
+
+
