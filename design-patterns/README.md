@@ -98,4 +98,8 @@ structures as if they were individual objects.
 Decorator is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside
 special wrapper objects that contain the behaviors.
 
+## Facade 
+
+Facade is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes.
+
 
