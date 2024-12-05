@@ -98,6 +98,13 @@ structures as if they were individual objects.
 Decorator is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside
 special wrapper objects that contain the behaviors.
 
+## Flyweight
+
+https://refactoring.guru/design-patterns/flyweight
+
+Flyweight is a structural design pattern that lets you fit more objects into the available amount of RAM by sharing
+common parts of state between multiple objects instead of keeping all of the data in each object.
+
 ## Facade 
 
 ## Proxy
