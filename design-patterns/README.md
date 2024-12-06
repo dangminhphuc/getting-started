@@ -105,10 +105,12 @@ https://refactoring.guru/design-patterns/flyweight
 Flyweight is a structural design pattern that lets you fit more objects into the available amount of RAM by sharing
 common parts of state between multiple objects instead of keeping all of the data in each object.
 
-## Facade 
+## Facade
+Facade is a structural design pattern that provides a simplified interface to a library, a framework, or any other
+complex set of classes.
+
 
 ## Proxy
-
 Proxy is a structural design pattern that lets you provide a substitute or placeholder for another object. A proxy
 controls access to the original object, allowing you to perform something either before or after the request gets
 through to the original object.
